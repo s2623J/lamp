@@ -39,6 +39,7 @@ docker-compose up -d
 ```
 
 Your LAMP stack is now ready!! You can access it via `http://localhost`. 
+To continue with further installing Wordpress, follow instructions in Notes.txt
 
 ##  Configuration and Usage
 
